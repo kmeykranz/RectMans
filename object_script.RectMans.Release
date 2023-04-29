@@ -1,0 +1,13 @@
+release/client.o
+release/enemy.o
+release/gameMenu.o
+release/main.o
+release/gameEngine.o
+release/map.o
+release/object.o
+release/player.o
+release/server.o
+release/moc_client.o
+release/moc_gameEngine.o
+release/moc_gameMenu.o
+release/moc_server.o

@@ -1,0 +1,13 @@
+debug/client.o
+debug/enemy.o
+debug/gameMenu.o
+debug/main.o
+debug/gameEngine.o
+debug/map.o
+debug/object.o
+debug/player.o
+debug/server.o
+debug/moc_client.o
+debug/moc_gameEngine.o
+debug/moc_gameMenu.o
+debug/moc_server.o
