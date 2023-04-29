@@ -37,8 +37,4 @@ An online multiplayer game made with C++ and Qt 6.\
 
 没有同步两个玩家的僵尸和树木，意思是两边玩家看到的僵尸和树位置是不一样的。
 
-<<<<<<< HEAD
 ### 对你有帮助的话，请给个star关注下。
-=======
-### 对你有帮助的话，请给个star关注下。
->>>>>>> 891f2528a1f9ce26d2d1875efec59717b21b854e
